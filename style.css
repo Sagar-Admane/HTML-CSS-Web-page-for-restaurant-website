@@ -1,0 +1,134 @@
+.div1{
+display:flex;
+background-color : rgba(0, 0, 0, 0.8);
+}
+li{
+list-style:none;
+font-family:Cursive;
+}
+ul{
+display:flex;
+padding:25px;
+padding-left:15%
+}
+.divimg1{
+height:75px;
+width:75px;
+padding:25px
+}
+li{
+padding:25px;
+font-size:200%
+}
+a{
+text-decoration:none;
+color:white
+}
+a:hover{
+color:red;
+}
+body{
+  background-image: url('bg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+.div2{
+float:left;
+padding-top:25px;
+}
+.div3{
+padding-top:25px;
+}
+.para{
+font-size:150%;
+color:white;
+padding-top:0px;
+margin-left:37%;
+margin-right:35%;
+background-color:rgba(126, 106, 77, 0.8);
+margin-top:145px;
+display:flex:
+font-family:Cursive;
+margin-bottom:10%
+}
+.div4{
+width:100%;
+background-color:rgba(126, 106, 77, 0.8);
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.my{
+text-align:center;
+font-size:150%;
+background-color:rgba(126, 106, 77, 0.8);
+float:center;
+width:33.3%;
+margin-left:33.3%
+}
+.a1{
+height:180px;
+width:150px;}
+.my1{
+display:flex;
+background-color:rgba(126, 106, 77, 0.8);
+margin-right:45%;
+font-size:150%;
+text-align:center;
+font-family:Cursive;
+}
+.my2{
+display:flex;
+background-color:rgba(126, 106, 77, 0.8);
+margin-left:45%;
+font-size:150%;
+text-align:center;
+font-family:Cursive;
+float:right;}
+.my3{
+float:left;
+
+display:flex;
+background-color:rgba(126, 106, 77, 0.8);
+margin-right:45%;
+font-size:150%;
+text-align:center;
+font-family:Cursive;
+}
+
+.center1{
+display: block;
+margin-left: auto;
+margin-right: auto;
+height:180px;
+}
+
+.my4{
+padding-top:18%;}
+
+.abc{
+margin-left:33.3%;
+margin-right:33.3%;
+background-color:rgba(126, 106, 77, 0.8);
+margin-top:11%;height:100%
+}
+
+.my5{
+background-color:rgba(126, 106, 77, 0.8);
+margin-left:175px;
+margin-right:175px;}
+
+.abc1{
+font-size:175%;
+font-family:Cursive;}
+
+.gallery{
+height:30%;
+width:30%;
+margin-right:25px;
+margin-top:25px;
+margin-bottom:25px;
+border-radius:15%}
